@@ -23,5 +23,5 @@ class chemsitry:
         qml.IsingXX(wires= (wire_index, wire_index+1))
         qml.IsingYY(wires=(wire_index, wire_index +1))
 
-    def perfec_pairing(self):
+    def perfect_pairing(self):
         pass
